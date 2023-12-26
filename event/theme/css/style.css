@@ -12,12 +12,12 @@ html {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "system-ui";
   -webkit-font-smoothing: antialiased;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
   color: #222222;
   font-weight: 600;
 }
@@ -114,7 +114,7 @@ ul.social-links li a i {
 
 .text-overlay:after {
   content: "CONFERENCE";
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
   font-weight: 600;
   font-size: 215px;
   width: 100%;
@@ -451,7 +451,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .btn {
   text-transform: uppercase;
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
   transition: all 0.3s ease;
 }
 
@@ -564,7 +564,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 .main-nav .navbar-nav .nav-item {
   position: relative;
-  font-family: "Roboto", sans-serif;
+  font-family: "system-ui";
 }
 .main-nav .navbar-nav .nav-item .nav-link {
   position: relative;
@@ -575,7 +575,7 @@ select.form-control:not([size]):not([multiple]) {
   padding-top: 1.2rem;
   padding-bottom: 1.2rem;
   font-size: 1.06rem;
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
 }
 @media (max-width: 1352px) {
   .main-nav .navbar-nav .nav-item .nav-link {
@@ -745,7 +745,7 @@ select.form-control:not([size]):not([multiple]) {
   color: #fff;
   font-size: 1.125rem;
   text-transform: uppercase;
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
   border-left: 1px solid #ffa366;
   padding-left: 24px;
 }
@@ -845,7 +845,7 @@ select.form-control:not([size]):not([multiple]) {
   padding: 18px 0;
 }
 .subfooter .copyright-text p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
 }
 .subfooter .copyright-text p a {
   color: #ff6600;
@@ -953,7 +953,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 .banner .block .timer .syotimer-cell .syotimer-cell__value {
   min-width: 80px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
   font-size: 35px;
   line-height: 77px;
   text-align: center;
@@ -983,7 +983,7 @@ select.form-control:not([size]):not([multiple]) {
   text-transform: lowercase;
   font-weight: normal;
   color: #fff;
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
 }
 .banner .block h1 {
   text-transform: uppercase;
@@ -1286,7 +1286,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 .schedule .schedule-tab ul li.nav-item a span {
   margin-top: 2px;
-  font-family: "Roboto", sans-serif;
+  font-family: "system-ui";
   display: block;
   font-size: 1rem;
   color: #848484;
@@ -1386,7 +1386,7 @@ select.form-control:not([size]):not([multiple]) {
 .schedule .schedule-contents .schedule-item li.headings div {
   color: #fff;
   text-transform: uppercase;
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
 }
 .schedule .schedule-contents .schedule-item li.schedule-details {
   border-bottom: 1px solid;
@@ -1402,7 +1402,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 .schedule .schedule-contents .schedule-item li.schedule-details .block div {
   color: #222222;
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
 }
 .schedule .schedule-contents .schedule-item li.schedule-details .block div i {
   font-size: 1.1875em;
@@ -1456,7 +1456,7 @@ select.form-control:not([size]):not([multiple]) {
   }
 }
 .schedule.two .schedule-tab ul li.nav-item a {
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
   text-transform: uppercase;
   font-size: 20px;
   color: #222222;
@@ -1468,7 +1468,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 .schedule.two .schedule-tab ul li.nav-item a span {
   margin-top: 2px;
-  font-family: "Roboto", sans-serif;
+  font-family: "system-ui";
   display: block;
   font-size: 14px;
   color: #848484;
@@ -1569,7 +1569,7 @@ select.form-control:not([size]):not([multiple]) {
 .schedule.two .schedule-contents .schedule-item li.headings div {
   color: #fff;
   text-transform: uppercase;
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
 }
 .schedule.two .schedule-contents .schedule-item li.schedule-details:not(:last-child) {
   border-bottom: 1px solid #e5e5e5;
@@ -1585,7 +1585,7 @@ select.form-control:not([size]):not([multiple]) {
   padding-top: 25px;
   padding-bottom: 25px;
   color: #222222;
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
 }
 .schedule.two .schedule-contents .schedule-item li.schedule-details .block div i {
   font-size: 1.1875em;
@@ -1652,7 +1652,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 .ticket-feature .block .timer .syotimer-cell .syotimer-cell__value {
   min-width: 80px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
   font-size: 35px;
   height: 100px;
   width: 100px;
@@ -1681,7 +1681,7 @@ select.form-control:not([size]):not([multiple]) {
   text-transform: lowercase;
   font-weight: normal;
   color: #fff;
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
 }
 .ticket-feature .block-2 {
   position: relative;
@@ -1716,7 +1716,7 @@ select.form-control:not([size]):not([multiple]) {
   margin-bottom: 20px;
 }
 .ticket-feature .block-2 .service-item h5 {
-  font-family: "Roboto", sans-serif;
+  font-family: "system-ui";
   font-weight: 400;
   text-transform: uppercase;
 }
@@ -1772,7 +1772,7 @@ select.form-control:not([size]):not([multiple]) {
   margin-bottom: 20px;
 }
 .registration .service-block .service-item h5 {
-  font-family: "Roboto", sans-serif;
+  font-family:"system-ui";
   font-weight: 400;
   text-transform: uppercase;
 }
@@ -2077,7 +2077,7 @@ select.form-control:not([size]):not([multiple]) {
   }
 }
 .feature .testimonial p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "system-ui";
   margin-bottom: 10px;
   font-style: italic;
   color: #242424;
@@ -2191,7 +2191,7 @@ select.form-control:not([size]):not([multiple]) {
   border-radius: 100%;
 }
 .testimonial .testimonial-slider .item .block p {
-  font-family: "Montserrat", sans-serif;
+  font-family:"system-ui";
   font-style: italic;
   color: #888888;
 }
@@ -2315,7 +2315,7 @@ select.form-control:not([size]):not([multiple]) {
   background-color: #ff6600;
 }
 .single-speaker .block-2 .skills .skill-bar .progress .progress-bar span {
-  font-family: "Montserrat", sans-serif;
+  font-family:"system-ui";
   float: right;
   color: white;
 }
@@ -2348,7 +2348,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 .speakers-full-width .speaker-slider .speaker-image .primary-overlay h5,
 .speakers-full-width .speaker-slider .speaker-image .primary-overlay p {
-  font-family: "Montserrat", sans-serif;
+  font-family:"system-ui";
   font-weight: 400;
 }
 .speakers-full-width .speaker-slider .speaker-image .primary-overlay h5 {
@@ -2421,7 +2421,7 @@ select.form-control:not([size]):not([multiple]) {
 .speakers-full-width .speaker-slider .slick-prev:before,
 .speakers-full-width .speaker-slider .slick-next:before {
   color: #ff6600;
-  font-family: FontAwesome;
+  font-family:"system-ui";
 }
 
 /* Controls
@@ -2434,7 +2434,7 @@ select.form-control:not([size]):not([multiple]) {
   background: transparent;
   border: none;
   cursor: pointer;
-  font-family: "Montserrat", sans-serif;
+  font-family:"system-ui";
   margin-right: 25px;
 }
 @media (max-width: 767px) {
@@ -2709,7 +2709,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 .news .blog-post.single .post-details .share-block .tag p, .news .blog-post.single .post-details .share-block .tag ul {
   display: inline;
-  font-family: "Montserrat", sans-serif;
+  font-family:"system-ui";
 }
 .news .blog-post.single .post-details .share-block .tag p {
   color: #222222;
@@ -2734,7 +2734,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 .news .blog-post.single .post-details .share-block .share p, .news .blog-post.single .post-details .share-block .share ul {
   display: inline;
-  font-family: "Montserrat", sans-serif;
+  font-family:"system-ui";
 }
 .news .blog-post.single .post-details .share-block .share p {
   margin-right: 18px;
